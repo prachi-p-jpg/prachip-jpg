@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prachi Prajapati  
 
-🌱 Beginner Web Developer | Learning **HTML, CSS, JavaScript**  
+🌱 Web Developer | Learning **HTML, CSS, JavaScript**  
 💻 Exploring Frontend Development and UI Designing  
 🚀 Aspiring to become a Full Stack Developer  
 
@@ -9,7 +9,7 @@
 ## 🛠 Skills  
 - HTML  
 - CSS  
-- JavaScript (Learning)  
+- JavaScript 
 
 ---
 
