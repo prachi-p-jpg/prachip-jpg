@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prachi Prajapati  
 
-🌱 Web Developer | **HTML, CSS, JavaScript**  
+🌱 Junior Web Developer | **HTML, CSS, JavaScript Bootstrap**  
 💻 Exploring Frontend Development and UI Designing  
 🚀 Aspiring to become a Full Stack Developer  
 
@@ -9,7 +9,8 @@
 ## 🛠 Skills  
 - HTML  
 - CSS  
-- JavaScript 
+- JavaScript
+- Bootstrap
 
 ---
 
